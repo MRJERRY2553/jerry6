@@ -1,5 +1,4 @@
-#fucked by jutt
-os.system('xdg-open https://chat.whatsapp.com/FMU4cM319zCBRcHjOHbaU3')
+
 fbks=('com.facebook.adsmanager','com.facebook.lite','com.facebook.orca','com.facebook.katana')
 
 try:
